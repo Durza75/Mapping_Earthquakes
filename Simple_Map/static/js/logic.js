@@ -19,3 +19,5 @@ L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
 
 // Then we add our 'graymap' tile layer to the map.
 // streets.addTo(map);
+
+var marker = L.marker([51.5, -0.09]).addTo(map);
