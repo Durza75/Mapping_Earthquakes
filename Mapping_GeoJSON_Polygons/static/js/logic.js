@@ -1,4 +1,5 @@
-// 13.5.5 Map GeoJSON LineStrings
+// 13.5.6 Map GeoJSON Polygons
+
 // Create the map object with a center and zoom level.
 let map = L.map('mapid').setView([44.0, -80.0], 2);
 var accessToken = API_KEY;
