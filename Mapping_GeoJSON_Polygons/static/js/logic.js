@@ -1,7 +1,7 @@
 // 13.5.6 Map GeoJSON Polygons
 
 // Create the map object with a center and zoom level.
-let map = L.map('mapid').setView([44.0, -80.0], 2);
+let map = L.map('mapid').setView([43.7, -79.3], 11);
 var accessToken = API_KEY;
 
 // Add GeoJSON data.
