@@ -17,7 +17,6 @@ let line = [
 // Create a polyline using the line coordinates and make the line red.
 L.polyline(line, {
     color: "yellow"
-    mapStyle: "satellite-streets-v11"
   }).addTo(map);
 
 
