@@ -1,4 +1,4 @@
-// 13.6.1 Earthquakes Past 7 Days
+// (copied from Earthquakes_past7days)
 // Add console.log to check to see if our code is working.
 console.log("working");
 
